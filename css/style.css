@@ -1,13 +1,18 @@
 body {
   color: greenyellow;
+  font-size: large;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color:black
 }
 
 h1 {
   color: goldenrod;
+  font-style: oblique;
 }
 
 .quote {
   color: peru;
+  box-shadow:2cm
 }
 
 .quote.narrator {
@@ -16,9 +21,11 @@ h1 {
 
 #intro p {
   color: peachpuff;
+  margin: top 5px;px
 }
 
 .super-important-omg {
   font-size: 20px;
   background-color: yellow;
+  text-decoration:line-through
 }
