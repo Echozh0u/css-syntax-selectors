@@ -1,21 +1,21 @@
 body {
-  color: brown;
+  color: greenyellow;
 }
 
 h1 {
-  color: red;
+  color: goldenrod;
 }
 
 .quote {
-  color: gray;
+  color: peru;
 }
 
 .quote.narrator {
-  color: black;
+  color: blanchedalmond;
 }
 
 #intro p {
-  color: green;
+  color: peachpuff;
 }
 
 .super-important-omg {
